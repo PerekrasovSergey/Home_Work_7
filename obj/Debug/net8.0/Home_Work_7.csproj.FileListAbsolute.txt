@@ -1,0 +1,14 @@
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\bin\Debug\net8.0\Home_Work_7.exe
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\bin\Debug\net8.0\Home_Work_7.deps.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\bin\Debug\net8.0\Home_Work_7.runtimeconfig.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\bin\Debug\net8.0\Home_Work_7.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\bin\Debug\net8.0\Home_Work_7.pdb
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.AssemblyInfoInputs.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.AssemblyInfo.cs
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.csproj.CoreCompileInputs.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\refint\Home_Work_7.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.pdb
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.genruntimeconfig.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\ref\Home_Work_7.dll
