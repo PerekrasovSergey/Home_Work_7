@@ -12,3 +12,4 @@ C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug
 C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.pdb
 C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.genruntimeconfig.cache
 C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\ref\Home_Work_7.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Home_Work_7\obj\Debug\net8.0\Home_Work_7.sourcelink.json
