@@ -40,10 +40,36 @@ static int Akkerman(int m, int n)
     return n += 1;
 }
 
-Console.Write("Input Low limit: ");
-int m = System.Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input Low limit: ");
+// int m = System.Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Input Upper limit: ");
+// Console.Write("Input Upper limit: ");
+// int n = System.Convert.ToInt32(Console.ReadLine());
+
+// Console.Write(Akkerman(m, n));
+
+// Задача 3: Задайте произвольный массив. Выведете его элементы, начиная с конца. Использовать рекурсию, не использовать циклы.
+
+static void ArrayReversOutput(int[] arr)
+{
+    int i = arr.Length;
+    if (i > 0)
+    {
+        Console.Write("{0}\t", arr[i - 1] + " ");
+        ArrayReversOutput(arr[..(i - 1)]);
+    }
+}
+
+
+Console.Write("Input array length: ");
 int n = System.Convert.ToInt32(Console.ReadLine());
+int[] myArr = new int[n];
+Random rand = new Random();
+for (int i = 0; i < n; i += 1)
+{
+    myArr[i] = rand.Next(1, 99);
+    Console.Write("{0}\t", myArr[i]);
+}
+Console.WriteLine();
 
-Console.Write(Akkerman(m, n));
+ArrayReversOutput(myArr);
